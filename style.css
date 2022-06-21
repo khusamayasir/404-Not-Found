@@ -26,3 +26,10 @@ main {
     flex-direction: column;
 }
 
+.scarecrow img {
+    max-width: 539px;
+    width: 100%;
+    height: 447.5px;
+    border-radius: 0px;
+}
+
