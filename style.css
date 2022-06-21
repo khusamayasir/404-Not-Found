@@ -20,3 +20,9 @@ body {
     letter-spacing: -0.08em;
     margin: 40px 0 0 70px;
 }
+
+main {
+    display: flex;
+    flex-direction: column;
+}
+
