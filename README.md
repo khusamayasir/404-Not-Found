@@ -67,6 +67,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [Preview:](https://devio-404-not-found.netlify.app/)
+- Website [Preview](https://devio-404-not-found.netlify.app/)
 - GitHub [Github](https://github.com/khusamayasir)
 - Twitter [Twitter](https://twitter.com/khusamayasir)
