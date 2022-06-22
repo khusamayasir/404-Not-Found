@@ -65,7 +65,7 @@ main {
     margin: 36px 0;
 }
 
-.home-btn {
+.home-button {
     background-color: #333;
     font-family: 'Space Mono';
     font-style: normal;
@@ -80,7 +80,7 @@ main {
     padding: 24px 43px;
 }
 
-.home-btn:hover {
+.home-button:hover {
     background-color: rgb(29, 29, 29);
     cursor: pointer;
 }
@@ -93,4 +93,36 @@ footer {
     line-height: 17px;
     text-align: center;
     color: #BDBDBD;
+}
+
+.username-github-link, .devchallengelink {
+    color: #333;
+}
+  
+.username-link:hover {
+    color: black;
+}
+
+.devchallenges-link:hover {
+    color: #f7542e;
+}
+
+@media screen and (min-width: 850px) {
+    main {
+      flex-direction: row;
+    }
+    .scarecrow img {
+      margin-left: 77px;
+    }
+    .error-msg {
+      margin-left: 190px;
+    }
+    .error-msg p {
+      font-family: "Space Mono", monospace;
+      text-align: left;
+      font-weight: 400;
+      max-width: 381px;
+      width: 100%;
+      margin: 36px 0;
+    }
 }
