@@ -31,51 +31,42 @@ main {
     border-radius: 0px;
 }
 
-.error-msg {
-    max-width: 586px;
-    width: 100%;
-    height: 190px;
+.scarecrow {
     align-self: center;
 }
 
-.error-msg h2{
-    position: absolute;
-    width: 586px;
-    height: 190px;
-    left: 735px;
-    top: 265px;
-    
-    font-family: 'Space Mono';
+.error-msg {
+    max-width: 455px;
+    width: 100%;
+    height: auto;
+    align-self: center;
+}
+
+.error-msg h2 {
+    font-family: "Space Mono", monospace;
+    font-style: normal;
+    text-align: left;
     font-weight: 700;
     font-size: 64px;
+    line-height: 95px;
     letter-spacing: -0.035em;
-    color: #333333;
 }
 
 .error-msg p{
-    position: absolute;
-    width: 381px;
-    height: 108px;
-    left: 736px;
-    top: 491px;
-    
-    font-family: 'Space Mono';
+    font-family: "Space Mono", monospace;
     font-style: normal;
+    text-align: left;
     font-weight: 400;
     font-size: 24px;
     line-height: 36px;
     letter-spacing: -0.035em;
-    color: #4F4F4F;
+    max-width: 381px;
+    width: 100%;
+    margin: 36px 0;
 }
 
-.home-button {
-    position: absolute;
-    width: 216px;
-    height: 68px;
-    left: 740px;
-    top: 663px;
-
-    background-color: #333333;
+.home-btn {
+    background-color: #333;
     font-family: 'Space Mono';
     font-style: normal;
     font-weight: 700;
@@ -83,17 +74,19 @@ main {
     line-height: 21px;
     letter-spacing: -0.035em;
     text-transform: uppercase;
+    margin-bottom: 90px;
+    align-content: center;
     color: #FFFFFF;
+    padding: 24px 43px;
+}
+
+.home-btn:hover {
+    background-color: rgb(29, 29, 29);
+    cursor: pointer;
 }
 
 footer {
-    position: absolute;
-    width: 287px;
-    height: 17px;
-    left: 577px;
-    top: 1039px;
-    
-    font-family: 'Montserrat';
+    font-family: "Montserrat", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
