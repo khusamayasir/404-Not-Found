@@ -35,8 +35,11 @@
 <!-- OVERVIEW -->
 
 ## Overview
+Desktop:
 
 ![screenshot](https://github.com/khusamayasir/404-Not-Found/blob/main/preview/desktop-view.png?raw=true)
+
+Mobile: 
 
 ![screenshot](https://github.com/khusamayasir/404-Not-Found/blob/main/preview/mobile-view.png?raw=true)
 
