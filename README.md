@@ -35,7 +35,7 @@
 <!-- OVERVIEW -->
 
 ## Overview
-Desktop:
+Desktop: 
 
 ![screenshot](https://github.com/khusamayasir/404-Not-Found/blob/main/preview/desktop-view.png?raw=true)
 
