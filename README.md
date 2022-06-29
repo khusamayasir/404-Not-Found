@@ -39,7 +39,6 @@ Desktop:
 ![screenshot](https://github.com/khusamayasir/404-Not-Found/blob/main/preview/desktop-view.png?raw=true)
 
 Mobile: 
-
 ![screenshot](https://github.com/khusamayasir/404-Not-Found/blob/main/preview/mobile-view.png?raw=true)
 
 You can see the demo of the page at the start. It help me to polish my skills in css and html too, I love to do more challenges and make my skill more perfect and more proficient. I think practising or playing with this type of project will make you expert one day.
